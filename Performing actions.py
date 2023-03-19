@@ -4,7 +4,7 @@
 #   1.Status is not displaying before performing the activity
 #   2.After performing the activity status is not displaying correctly
 #   3.What needs to be done when multiple instances are present
-#   4.Handle the exception
+#   4.Handle the exception more effeciently 
 
 import boto3
 import botocore
